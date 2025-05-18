@@ -2,7 +2,7 @@
 Desafio de POO - Modelagem iPhone
 
 ## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Carlos Peçanha](https://github.com/CarlosEduardoFaria)
 
 ## POO - Desafio
 
